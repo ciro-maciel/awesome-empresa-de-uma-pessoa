@@ -1,0 +1,494 @@
+{
+  "slug": "awesome-empresa-de-uma-pessoa",
+  "language": "ar",
+  "title": "Awesome empresa de uma pessoa",
+  "description": "ما الذي يستخدمه الشخص لإدارة عمل كامل بوكلاء الذكاء الاصطناعي: النشر والتحصيل والقياس والترويج وأن يُعثر عليه.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "pensar",
+      "title": "للتفكير في العمل",
+      "items": [
+        {
+          "name": "Getting Real",
+          "url": "https://basecamp.com/gettingreal",
+          "link": "https://go.mymarketing.click/umap-getting-real",
+          "description": "كتاب Basecamp عن بناء أشياء أقل وأسرع بفريق صغير، مفتوح على الموقع.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "MAKE",
+          "url": "https://readmake.com/",
+          "link": "https://go.mymarketing.click/umap-make",
+          "description": "كتاب Pieter Levels عن إنشاء المنتجات وبيعها بمفرده دون مستثمر.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Pieter Levels no podcast de Lex Fridman",
+          "url": "https://lexfridman.com/pieter-levels-transcript/",
+          "link": "https://go.mymarketing.click/umap-pieter-levels-no-podcast-de-lex-fri",
+          "description": "نص الحوار عن الشركات التي يديرها بمفرده.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Cointeligência",
+          "url": "https://www.intrinseca.com.br/livro/cointeligencia",
+          "link": "https://go.mymarketing.click/umap-cointeligencia",
+          "description": "Ethan Mollick عن العمل مع الذكاء الاصطناعي كزميل. Intrínseca.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "agentes",
+      "title": "وكلاء الذكاء الاصطناعي",
+      "items": [
+        {
+          "name": "Claude Code",
+          "url": "https://code.claude.com/docs/pt/overview",
+          "link": "https://go.mymarketing.click/umap-claude-code",
+          "description": "وكيل Anthropic الذي يعمل في الطرفية والمحرر، مع توثيق بالبرتغالية.",
+          "tags": [
+            "oficial",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Building effective agents",
+          "url": "https://www.anthropic.com/engineering/building-effective-agents",
+          "link": "https://go.mymarketing.click/umap-building-effective-agents",
+          "description": "نص Anthropic عن متى يُستخدم التدفق الثابت ومتى يُستخدم الوكيل.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Writing tools for agents",
+          "url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+          "link": "https://go.mymarketing.click/umap-writing-tools-for-agents",
+          "description": "كيفية كتابة أدوات يستخدمها الوكيل جيداً، من Anthropic.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Model Context Protocol",
+          "url": "https://modelcontextprotocol.io/",
+          "link": "https://go.mymarketing.click/umap-model-context-protocol",
+          "description": "البروتوكول المفتوح الذي يربط الوكلاء بالأدوات والبيانات.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "CCM Stack",
+          "url": "https://github.com/ciro-maciel/ccm-stack",
+          "link": "https://go.mymarketing.click/umap-ccm-stack",
+          "description": "إضافة للوكيل تضم مبادئ، وhooks ترفض الخطأ المعروف، ومهارات للنشر والقياس والبيع.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "no-ar",
+      "title": "النشر والتحصيل",
+      "items": [
+        {
+          "name": "Cloudflare Pages",
+          "url": "https://pages.cloudflare.com/",
+          "link": "https://go.mymarketing.click/umap-cloudflare-pages",
+          "description": "استضافة مواقع ثابتة بخطة مجانية.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Infrastructure",
+          "url": "https://myinfrastructure.click/",
+          "link": "https://go.mymarketing.click/umap-infrastructure",
+          "description": "استضافة وتسجيل دخول وتخزين ومدفوعات وبريد ووظائف ومراقبة. تبدأ مجاناً، بلا بطاقة وبلا مدة، مع ميزة واحدة لكل منتج.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resend",
+          "url": "https://resend.com/",
+          "link": "https://go.mymarketing.click/umap-resend",
+          "description": "واجهة برمجية لإرسال البريد بخطة مجانية.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/br",
+          "link": "https://go.mymarketing.click/umap-stripe",
+          "description": "مدفوعات بالبطاقة وPix وBoleto في البرازيل.",
+          "tags": [
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Vercel",
+          "url": "https://vercel.com/",
+          "link": "https://go.mymarketing.click/umap-vercel",
+          "description": "استضافة تطبيقات الويب بخطة مجانية.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "medir",
+      "title": "القياس",
+      "items": [
+        {
+          "name": "Operations",
+          "url": "https://myoperations.click/",
+          "link": "https://go.mymarketing.click/umap-operations",
+          "description": "تحليلات بلا شريط ملفات تعريف الارتباط ولا فيديوهات. تبدأ مجاناً، بلا بطاقة وبلا مدة، مع ميزة واحدة لكل منتج.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Plausible",
+          "url": "https://plausible.io/",
+          "link": "https://go.mymarketing.click/umap-plausible",
+          "description": "تحليلات خفيفة بلا ملفات تعريف ارتباط، مدفوعة أو مستضافة ذاتياً.",
+          "tags": [
+            "pago",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Umami",
+          "url": "https://github.com/umami-software/umami",
+          "link": "https://go.mymarketing.click/umap-umami",
+          "description": "تحليلات مفتوحة المصدر للاستضافة الذاتية.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "clientes",
+      "title": "معرفة العملاء",
+      "items": [
+        {
+          "name": "Customers",
+          "url": "https://mycustomers.click/",
+          "link": "https://go.mymarketing.click/umap-customers",
+          "description": "People: التسجيلات والاستخدام والمدفوعات في تطبيقك في قائمة بمن تتابعه اليوم. تبدأ مجاناً، بلا بطاقة وبلا مدة، مع ميزة واحدة لكل منتج.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "link": "https://go.mymarketing.click/umap-twenty",
+          "description": "نظام إدارة علاقات العملاء مفتوح المصدر.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "divulgar",
+      "title": "الترويج والبيع",
+      "items": [
+        {
+          "name": "Buttondown",
+          "url": "https://buttondown.com/",
+          "link": "https://go.mymarketing.click/umap-buttondown",
+          "description": "نشرة بريدية بسيطة بخطة مجانية.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dub",
+          "url": "https://github.com/dubinc/dub",
+          "link": "https://go.mymarketing.click/umap-dub",
+          "description": "روابط مختصرة مع مقاييس، مفتوحة المصدر.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Marketing",
+          "url": "https://mymarketing.click/",
+          "link": "https://go.mymarketing.click/umap-marketing",
+          "description": "مدونات وصفحات ونماذج وروابط ونشرة بريدية وعروض تقديمية ومتجر وتصاميم. تبدأ مجاناً، بلا بطاقة وبلا مدة، مع ميزة واحدة لكل منتج.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tally",
+          "url": "https://tally.so/",
+          "link": "https://go.mymarketing.click/umap-tally",
+          "description": "نماذج مع خطة مجانية سخية.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "memoria",
+      "title": "ذاكرة الوكلاء وأدواتهم",
+      "items": [
+        {
+          "name": "Agents",
+          "url": "https://myagents.click/",
+          "link": "https://go.mymarketing.click/umap-agents",
+          "description": "موصلات MCP وذاكرة Brain وUniversal MCP. تبدأ مجانًا، بدون بطاقة ودون مدة محددة، مع ميزة واحدة لكل منتج.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ser-encontrado",
+      "title": "أن تُعثر عليك",
+      "items": [
+        {
+          "name": "Google Search Console",
+          "url": "https://search.google.com/search-console/about",
+          "link": "https://go.mymarketing.click/umap-google-search-console",
+          "description": "كيف ترى جوجل موقعك وما الذي فهرسته.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Sitemaps no Google",
+          "url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview?hl=pt-br",
+          "link": "https://go.mymarketing.click/umap-sitemaps-no-google",
+          "description": "كيفية إنشاء خريطة الموقع وإرسالها.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IndexNow",
+          "url": "https://www.indexnow.org/documentation",
+          "link": "https://go.mymarketing.click/umap-indexnow",
+          "description": "إخطار Bing ومحركات البحث الأخرى عند تغيير صفحة.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "llms.txt",
+          "url": "https://llmstxt.org/",
+          "link": "https://go.mymarketing.click/umap-llms-txt",
+          "description": "اقتراح ملف يشرح موقعك لوكلاء الذكاء الاصطناعي.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "regras",
+      "title": "قواعد تنطبق على من يبيع",
+      "items": [
+        {
+          "name": "Portal do Empreendedor",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+          "link": "https://go.mymarketing.click/umap-portal-do-empreendedor",
+          "description": "البوابة الرسمية لـ MEI.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/umap-codigo-de-defesa-do-consumidor",
+          "description": "قانون حماية المستهلك CDC منشور على موقع Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do comércio eletrônico",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+          "link": "https://go.mymarketing.click/umap-decreto-do-comercio-eletronico",
+          "description": "المرسوم 7.962/2013، لمن يبيع عبر الإنترنت.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/umap-lgpd",
+          "description": "قانون حماية البيانات العامة LGPD.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WCAG 2.2",
+          "url": "https://www.w3.org/TR/WCAG22/",
+          "link": "https://go.mymarketing.click/umap-wcag-2-2",
+          "description": "إرشادات إمكانية الوصول للمحتوى على الويب.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livros",
+      "title": "كتب",
+      "items": [
+        {
+          "name": "A empresa de uma pessoa (vol. 12)",
+          "url": "https://ciromaciel.click/books/one-person-business",
+          "link": "https://go.mymarketing.click/umap-a-empresa-de-uma-pessoa-vol-12",
+          "description": "كيفية بناء وتشغيل عمل تجاري كامل بوكلاء الذكاء الاصطناعي.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Do primeiro visitante ao cliente (vol. 13)",
+          "url": "https://ciromaciel.click/books/do-primeiro-visitante-ao-cliente",
+          "link": "https://go.mymarketing.click/umap-do-primeiro-visitante-ao-cliente-vo",
+          "description": "الواجهة والاستقطاب والعلاقة مع العملاء في العمل، مبنية بوكلاء.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Feito para agentes (vol. 11)",
+          "url": "https://ciromaciel.click/books/feito-para-agentes",
+          "link": "https://go.mymarketing.click/umap-feito-para-agentes-vol-11",
+          "description": "كيف تجعل وكيل الذكاء الاصطناعي لعميلك يستخدم منتجك.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

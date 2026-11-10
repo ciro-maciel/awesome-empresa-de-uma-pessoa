@@ -1,0 +1,494 @@
+{
+  "slug": "awesome-empresa-de-uma-pessoa",
+  "language": "vi",
+  "title": "Awesome empresa de uma pessoa",
+  "description": "Những công cụ một người cần để điều hành cả một doanh nghiệp với agent AI: đưa lên mạng, thu tiền, đo lường, quảng bá và được tìm thấy.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "pensar",
+      "title": "Để suy nghĩ về công việc kinh doanh",
+      "items": [
+        {
+          "name": "Getting Real",
+          "url": "https://basecamp.com/gettingreal",
+          "link": "https://go.mymarketing.click/umap-getting-real",
+          "description": "Cuốn sách của Basecamp về xây dựng ít hơn, nhanh hơn và với đội nhỏ, đọc miễn phí trên trang web.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "MAKE",
+          "url": "https://readmake.com/",
+          "link": "https://go.mymarketing.click/umap-make",
+          "description": "Cuốn sách của Pieter Levels về tạo và bán sản phẩm một mình, không cần nhà đầu tư.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Pieter Levels no podcast de Lex Fridman",
+          "url": "https://lexfridman.com/pieter-levels-transcript/",
+          "link": "https://go.mymarketing.click/umap-pieter-levels-no-podcast-de-lex-fri",
+          "description": "Bản chép lời cuộc trò chuyện về các công ty ông điều hành một mình.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Cointeligência",
+          "url": "https://www.intrinseca.com.br/livro/cointeligencia",
+          "link": "https://go.mymarketing.click/umap-cointeligencia",
+          "description": "Ethan Mollick về làm việc với AI như một đồng nghiệp. Intrínseca.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "agentes",
+      "title": "Agent AI",
+      "items": [
+        {
+          "name": "Claude Code",
+          "url": "https://code.claude.com/docs/pt/overview",
+          "link": "https://go.mymarketing.click/umap-claude-code",
+          "description": "Agent của Anthropic làm việc trên terminal và trình soạn thảo, có tài liệu tiếng Bồ Đào Nha.",
+          "tags": [
+            "oficial",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Building effective agents",
+          "url": "https://www.anthropic.com/engineering/building-effective-agents",
+          "link": "https://go.mymarketing.click/umap-building-effective-agents",
+          "description": "Bài viết của Anthropic về khi nào nên dùng luồng cố định và khi nào nên dùng agent.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Writing tools for agents",
+          "url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+          "link": "https://go.mymarketing.click/umap-writing-tools-for-agents",
+          "description": "Cách viết công cụ mà agent dùng tốt, từ Anthropic.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Model Context Protocol",
+          "url": "https://modelcontextprotocol.io/",
+          "link": "https://go.mymarketing.click/umap-model-context-protocol",
+          "description": "Giao thức mở kết nối agent với công cụ và dữ liệu.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "CCM Stack",
+          "url": "https://github.com/ciro-maciel/ccm-stack",
+          "link": "https://go.mymarketing.click/umap-ccm-stack",
+          "description": "Plugin cho agent với các nguyên tắc, hook chặn lỗi đã biết và skills để đưa lên mạng, đo lường và bán hàng.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "no-ar",
+      "title": "Đưa lên mạng và thu tiền",
+      "items": [
+        {
+          "name": "Cloudflare Pages",
+          "url": "https://pages.cloudflare.com/",
+          "link": "https://go.mymarketing.click/umap-cloudflare-pages",
+          "description": "Lưu trữ trang web tĩnh với gói miễn phí.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Infrastructure",
+          "url": "https://myinfrastructure.click/",
+          "link": "https://go.mymarketing.click/umap-infrastructure",
+          "description": "Lưu trữ, đăng nhập, lưu trữ tệp, thanh toán, email, hàm và giám sát. Bắt đầu miễn phí, không cần thẻ và không giới hạn thời gian, với một tính năng cho mỗi sản phẩm.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resend",
+          "url": "https://resend.com/",
+          "link": "https://go.mymarketing.click/umap-resend",
+          "description": "API gửi email với gói miễn phí.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/br",
+          "link": "https://go.mymarketing.click/umap-stripe",
+          "description": "Thanh toán bằng thẻ, Pix và boleto ở Brazil.",
+          "tags": [
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Vercel",
+          "url": "https://vercel.com/",
+          "link": "https://go.mymarketing.click/umap-vercel",
+          "description": "Lưu trữ ứng dụng web với gói miễn phí.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "medir",
+      "title": "Đo lường",
+      "items": [
+        {
+          "name": "Operations",
+          "url": "https://myoperations.click/",
+          "link": "https://go.mymarketing.click/umap-operations",
+          "description": "Analytics không cần banner cookie và video. Bắt đầu miễn phí, không cần thẻ và không giới hạn thời gian, với một tính năng cho mỗi sản phẩm.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Plausible",
+          "url": "https://plausible.io/",
+          "link": "https://go.mymarketing.click/umap-plausible",
+          "description": "Analytics nhẹ, không dùng cookie, trả phí hoặc tự lưu trữ.",
+          "tags": [
+            "pago",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Umami",
+          "url": "https://github.com/umami-software/umami",
+          "link": "https://go.mymarketing.click/umap-umami",
+          "description": "Analytics mã nguồn mở để tự lưu trữ.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "clientes",
+      "title": "Hiểu khách hàng",
+      "items": [
+        {
+          "name": "Customers",
+          "url": "https://mycustomers.click/",
+          "link": "https://go.mymarketing.click/umap-customers",
+          "description": "People: đăng ký, sử dụng và thanh toán trong ứng dụng của bạn trong một danh sách những người cần liên hệ hôm nay. Bắt đầu miễn phí, không cần thẻ và không giới hạn thời gian, với một tính năng cho mỗi sản phẩm.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "link": "https://go.mymarketing.click/umap-twenty",
+          "description": "CRM mã nguồn mở.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "divulgar",
+      "title": "Quảng bá và bán hàng",
+      "items": [
+        {
+          "name": "Buttondown",
+          "url": "https://buttondown.com/",
+          "link": "https://go.mymarketing.click/umap-buttondown",
+          "description": "Bản tin đơn giản với gói miễn phí.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dub",
+          "url": "https://github.com/dubinc/dub",
+          "link": "https://go.mymarketing.click/umap-dub",
+          "description": "Liên kết rút gọn có số liệu, mã nguồn mở.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Marketing",
+          "url": "https://mymarketing.click/",
+          "link": "https://go.mymarketing.click/umap-marketing",
+          "description": "Blog, trang, biểu mẫu, liên kết, bản tin, bài thuyết trình, cửa hàng và mẫu thiết kế. Bắt đầu miễn phí, không cần thẻ và không giới hạn thời gian, với một tính năng cho mỗi sản phẩm.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tally",
+          "url": "https://tally.so/",
+          "link": "https://go.mymarketing.click/umap-tally",
+          "description": "Biểu mẫu với gói miễn phí rộng rãi.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "memoria",
+      "title": "Bộ nhớ và công cụ của agent",
+      "items": [
+        {
+          "name": "Agents",
+          "url": "https://myagents.click/",
+          "link": "https://go.mymarketing.click/umap-agents",
+          "description": "Các connector MCP, bộ nhớ Brain và Universal MCP. Bắt đầu miễn phí, không cần thẻ và không giới hạn thời gian, mỗi sản phẩm có một tính năng.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ser-encontrado",
+      "title": "Được tìm thấy",
+      "items": [
+        {
+          "name": "Google Search Console",
+          "url": "https://search.google.com/search-console/about",
+          "link": "https://go.mymarketing.click/umap-google-search-console",
+          "description": "Cách Google nhìn thấy trang web của bạn và những gì nó đã lập chỉ mục.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Sitemaps no Google",
+          "url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview?hl=pt-br",
+          "link": "https://go.mymarketing.click/umap-sitemaps-no-google",
+          "description": "Cách tạo và gửi sitemap.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IndexNow",
+          "url": "https://www.indexnow.org/documentation",
+          "link": "https://go.mymarketing.click/umap-indexnow",
+          "description": "Thông báo cho Bing và các công cụ tìm kiếm khác khi một trang thay đổi.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "llms.txt",
+          "url": "https://llmstxt.org/",
+          "link": "https://go.mymarketing.click/umap-llms-txt",
+          "description": "Đề xuất về một tệp giải thích trang web của bạn cho các agent AI.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "regras",
+      "title": "Quy định áp dụng cho người bán hàng",
+      "items": [
+        {
+          "name": "Portal do Empreendedor",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+          "link": "https://go.mymarketing.click/umap-portal-do-empreendedor",
+          "description": "Cổng thông tin chính thức của MEI.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/umap-codigo-de-defesa-do-consumidor",
+          "description": "Bộ luật CDC được biên soạn trên Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do comércio eletrônico",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+          "link": "https://go.mymarketing.click/umap-decreto-do-comercio-eletronico",
+          "description": "Decreto 7.962/2013, dành cho người bán hàng qua internet.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/umap-lgpd",
+          "description": "Luật Bảo vệ Dữ liệu Cá nhân (LGPD).",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WCAG 2.2",
+          "url": "https://www.w3.org/TR/WCAG22/",
+          "link": "https://go.mymarketing.click/umap-wcag-2-2",
+          "description": "Các hướng dẫn về khả năng truy cập cho nội dung web.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livros",
+      "title": "Sách",
+      "items": [
+        {
+          "name": "A empresa de uma pessoa (vol. 12)",
+          "url": "https://ciromaciel.click/books/one-person-business",
+          "link": "https://go.mymarketing.click/umap-a-empresa-de-uma-pessoa-vol-12",
+          "description": "Cách xây dựng và vận hành toàn bộ doanh nghiệp với agent AI.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Do primeiro visitante ao cliente (vol. 13)",
+          "url": "https://ciromaciel.click/books/do-primeiro-visitante-ao-cliente",
+          "link": "https://go.mymarketing.click/umap-do-primeiro-visitante-ao-cliente-vo",
+          "description": "Gian hàng, thu hút khách hàng và quan hệ khách hàng của doanh nghiệp, được xây dựng với agent.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Feito para agentes (vol. 11)",
+          "url": "https://ciromaciel.click/books/feito-para-agentes",
+          "link": "https://go.mymarketing.click/umap-feito-para-agentes-vol-11",
+          "description": "Cách để agent AI của khách hàng bạn sử dụng sản phẩm của bạn.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

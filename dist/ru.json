@@ -1,0 +1,494 @@
+{
+  "slug": "awesome-empresa-de-uma-pessoa",
+  "language": "ru",
+  "title": "Awesome empresa de uma pessoa",
+  "description": "Что нужно человеку, чтобы вести весь бизнес с ИИ-агентами: запустить, принимать оплату, измерять, продвигать и быть найденным.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "pensar",
+      "title": "Для обдумывания бизнеса",
+      "items": [
+        {
+          "name": "Getting Real",
+          "url": "https://basecamp.com/gettingreal",
+          "link": "https://go.mymarketing.click/umap-getting-real",
+          "description": "Книга Basecamp о том, как строить меньше, быстрее и с небольшой командой, открыта на сайте.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "MAKE",
+          "url": "https://readmake.com/",
+          "link": "https://go.mymarketing.click/umap-make",
+          "description": "Книга Пьера Левелса о том, как создавать и продавать продукты в одиночку, без инвестора.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Pieter Levels no podcast de Lex Fridman",
+          "url": "https://lexfridman.com/pieter-levels-transcript/",
+          "link": "https://go.mymarketing.click/umap-pieter-levels-no-podcast-de-lex-fri",
+          "description": "Расшифровка разговора о компаниях, которыми он управляет в одиночку.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Cointeligência",
+          "url": "https://www.intrinseca.com.br/livro/cointeligencia",
+          "link": "https://go.mymarketing.click/umap-cointeligencia",
+          "description": "Итан Моллик о работе с ИИ как с коллегой. Intrínseca.",
+          "tags": [
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "agentes",
+      "title": "ИИ-агенты",
+      "items": [
+        {
+          "name": "Claude Code",
+          "url": "https://code.claude.com/docs/pt/overview",
+          "link": "https://go.mymarketing.click/umap-claude-code",
+          "description": "Агент от Anthropic, который работает в терминале и редакторе, с документацией на португальском.",
+          "tags": [
+            "oficial",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Building effective agents",
+          "url": "https://www.anthropic.com/engineering/building-effective-agents",
+          "link": "https://go.mymarketing.click/umap-building-effective-agents",
+          "description": "Текст Anthropic о том, когда использовать фиксированный поток, а когда агента.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Writing tools for agents",
+          "url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+          "link": "https://go.mymarketing.click/umap-writing-tools-for-agents",
+          "description": "Как писать инструменты, которыми агент умеет пользоваться хорошо, от Anthropic.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Model Context Protocol",
+          "url": "https://modelcontextprotocol.io/",
+          "link": "https://go.mymarketing.click/umap-model-context-protocol",
+          "description": "Открытый протокол, который связывает агентов с инструментами и данными.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "CCM Stack",
+          "url": "https://github.com/ciro-maciel/ccm-stack",
+          "link": "https://go.mymarketing.click/umap-ccm-stack",
+          "description": "Плагин для агента с принципами, хуками, которые отклоняют известную ошибку, и skills для запуска, измерения и продажи.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "no-ar",
+      "title": "Запуск и оплата",
+      "items": [
+        {
+          "name": "Cloudflare Pages",
+          "url": "https://pages.cloudflare.com/",
+          "link": "https://go.mymarketing.click/umap-cloudflare-pages",
+          "description": "Хостинг статических сайтов с бесплатным тарифом.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Infrastructure",
+          "url": "https://myinfrastructure.click/",
+          "link": "https://go.mymarketing.click/umap-infrastructure",
+          "description": "Хостинг, вход, хранилище, платежи, e-mail, функции и мониторы. Начинается бесплатно, без карты и без срока, с одним ресурсом на продукт.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resend",
+          "url": "https://resend.com/",
+          "link": "https://go.mymarketing.click/umap-resend",
+          "description": "API для отправки e-mail с бесплатным тарифом.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/br",
+          "link": "https://go.mymarketing.click/umap-stripe",
+          "description": "Платежи картой, Pix и boleto в Бразилии.",
+          "tags": [
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Vercel",
+          "url": "https://vercel.com/",
+          "link": "https://go.mymarketing.click/umap-vercel",
+          "description": "Хостинг веб-приложений с бесплатным тарифом.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "medir",
+      "title": "Измерение",
+      "items": [
+        {
+          "name": "Operations",
+          "url": "https://myoperations.click/",
+          "link": "https://go.mymarketing.click/umap-operations",
+          "description": "Аналитика без баннера cookie и видео. Начинается бесплатно, без карты и без срока, с одним ресурсом на продукт.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Plausible",
+          "url": "https://plausible.io/",
+          "link": "https://go.mymarketing.click/umap-plausible",
+          "description": "Лёгкая аналитика без cookie, платная или с самостоятельным размещением.",
+          "tags": [
+            "pago",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Umami",
+          "url": "https://github.com/umami-software/umami",
+          "link": "https://go.mymarketing.click/umap-umami",
+          "description": "Аналитика с открытым кодом для самостоятельного размещения.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "clientes",
+      "title": "Знакомство с клиентами",
+      "items": [
+        {
+          "name": "Customers",
+          "url": "https://mycustomers.click/",
+          "link": "https://go.mymarketing.click/umap-customers",
+          "description": "People: регистрации, использование и платежи вашего приложения в списке тех, кого искать сегодня. Начинается бесплатно, без карты и без срока, с одним ресурсом на продукт.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "link": "https://go.mymarketing.click/umap-twenty",
+          "description": "CRM с открытым кодом.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "divulgar",
+      "title": "Продвижение и продажи",
+      "items": [
+        {
+          "name": "Buttondown",
+          "url": "https://buttondown.com/",
+          "link": "https://go.mymarketing.click/umap-buttondown",
+          "description": "Простая рассылка с бесплатным тарифом.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dub",
+          "url": "https://github.com/dubinc/dub",
+          "link": "https://go.mymarketing.click/umap-dub",
+          "description": "Короткие ссылки с метриками, с открытым кодом.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Marketing",
+          "url": "https://mymarketing.click/",
+          "link": "https://go.mymarketing.click/umap-marketing",
+          "description": "Блоги, страницы, формы, ссылки, рассылка, презентации, магазин и дизайн. Начинается бесплатно, без карты и без срока, с одним ресурсом на продукт.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tally",
+          "url": "https://tally.so/",
+          "link": "https://go.mymarketing.click/umap-tally",
+          "description": "Формы с щедрым бесплатным тарифом.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "memoria",
+      "title": "Память и инструменты агентов",
+      "items": [
+        {
+          "name": "Agents",
+          "url": "https://myagents.click/",
+          "link": "https://go.mymarketing.click/umap-agents",
+          "description": "Коннекторы MCP, память Brain и Universal MCP. Начать можно бесплатно, без карты и без срока, с одним инструментом на продукт.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ser-encontrado",
+      "title": "Быть найденным",
+      "items": [
+        {
+          "name": "Google Search Console",
+          "url": "https://search.google.com/search-console/about",
+          "link": "https://go.mymarketing.click/umap-google-search-console",
+          "description": "Как Google видит ваш сайт и что он проиндексировал.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Sitemaps no Google",
+          "url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview?hl=pt-br",
+          "link": "https://go.mymarketing.click/umap-sitemaps-no-google",
+          "description": "Как составить и отправить sitemap.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IndexNow",
+          "url": "https://www.indexnow.org/documentation",
+          "link": "https://go.mymarketing.click/umap-indexnow",
+          "description": "Сообщать Bing и другим поисковикам, когда страница меняется.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "llms.txt",
+          "url": "https://llmstxt.org/",
+          "link": "https://go.mymarketing.click/umap-llms-txt",
+          "description": "Предложение файла, который объясняет ваш сайт агентам ИИ.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "regras",
+      "title": "Правила, которые действуют для продавцов",
+      "items": [
+        {
+          "name": "Portal do Empreendedor",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+          "link": "https://go.mymarketing.click/umap-portal-do-empreendedor",
+          "description": "Официальный портал MEI.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/umap-codigo-de-defesa-do-consumidor",
+          "description": "CDC в собрании на сайте Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do comércio eletrônico",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+          "link": "https://go.mymarketing.click/umap-decreto-do-comercio-eletronico",
+          "description": "Декрет 7.962/2013 для тех, кто продаёт через интернет.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/umap-lgpd",
+          "description": "Общий закон о защите данных (LGPD).",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WCAG 2.2",
+          "url": "https://www.w3.org/TR/WCAG22/",
+          "link": "https://go.mymarketing.click/umap-wcag-2-2",
+          "description": "Рекомендации по доступности веб-контента.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livros",
+      "title": "Книги",
+      "items": [
+        {
+          "name": "A empresa de uma pessoa (vol. 12)",
+          "url": "https://ciromaciel.click/books/one-person-business",
+          "link": "https://go.mymarketing.click/umap-a-empresa-de-uma-pessoa-vol-12",
+          "description": "Как построить и вести весь бизнес с агентами ИИ.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Do primeiro visitante ao cliente (vol. 13)",
+          "url": "https://ciromaciel.click/books/do-primeiro-visitante-ao-cliente",
+          "link": "https://go.mymarketing.click/umap-do-primeiro-visitante-ao-cliente-vo",
+          "description": "Витрина, привлечение и работа с клиентами, построенные с агентами.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Feito para agentes (vol. 11)",
+          "url": "https://ciromaciel.click/books/feito-para-agentes",
+          "link": "https://go.mymarketing.click/umap-feito-para-agentes-vol-11",
+          "description": "Как сделать так, чтобы ИИ-агент вашего клиента работал с вашим продуктом.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
