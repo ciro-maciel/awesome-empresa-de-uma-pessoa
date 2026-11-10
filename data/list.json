@@ -1,0 +1,451 @@
+{
+    "slug": "awesome-empresa-de-uma-pessoa",
+    "campaign": "awesome-empresa-de-uma-pessoa",
+    "linkPrefix": "umap",
+    "title": "Awesome empresa de uma pessoa",
+    "description": "O que uma pessoa usa para tocar um negócio inteiro com agentes de IA: pôr no ar, cobrar, medir, divulgar e ser encontrada.",
+    "intro": "Para quem toca um negócio sozinho e quer que agentes de IA façam o trabalho de uma equipe. Segue a ordem do negócio: pensar, pôr no ar, cobrar, medir, conhecer o cliente, divulgar e ser encontrado. Em cada etapa há o que o autor da lista faz e ao menos uma alternativa de outra empresa.",
+    "glossary": "One Person Business, Getting Real, MAKE, Claude Code, Model Context Protocol, MCP, CCM Stack, Infrastructure, Operations, Customers, Marketing, Agents, People, Brain, Universal MCP, llms.txt, IndexNow, Search Console, WCAG, LGPD, MEI and every product name are proper names; keep them.",
+    "topics": [
+        "one-person-business",
+        "solopreneur",
+        "indie-hacker",
+        "ai-agents",
+        "empreendedorismo",
+        "bootstrapping"
+    ],
+    "categories": [
+        {
+            "id": "pensar",
+            "title": "Para pensar o negócio",
+            "description": "Quem já tocou um negócio pequeno e lucrativo, e como.",
+            "items": [
+                {
+                    "name": "Getting Real",
+                    "url": "https://basecamp.com/gettingreal",
+                    "description": "O livro da Basecamp sobre construir menos, mais rápido e com equipe pequena, aberto no site.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "MAKE",
+                    "url": "https://readmake.com/",
+                    "description": "O livro de Pieter Levels sobre criar e vender produtos sozinho, sem investidor.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Pieter Levels no podcast de Lex Fridman",
+                    "url": "https://lexfridman.com/pieter-levels-transcript/",
+                    "description": "A transcrição da conversa sobre as empresas que ele toca sozinho.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Cointeligência",
+                    "url": "https://www.intrinseca.com.br/livro/cointeligencia",
+                    "description": "Ethan Mollick sobre trabalhar com a IA como colega. Intrínseca.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "agentes",
+            "title": "Agentes de IA",
+            "description": "O que faz o trabalho de uma equipe.",
+            "items": [
+                {
+                    "name": "Claude Code",
+                    "url": "https://code.claude.com/docs/pt/overview",
+                    "description": "O agente da Anthropic que trabalha no terminal e no editor, com documentação em português.",
+                    "tags": [
+                        "oficial",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Building effective agents",
+                    "url": "https://www.anthropic.com/engineering/building-effective-agents",
+                    "description": "O texto da Anthropic sobre quando usar fluxo fixo e quando usar agente.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Writing tools for agents",
+                    "url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+                    "description": "Como escrever ferramentas que um agente usa bem, da Anthropic.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Model Context Protocol",
+                    "url": "https://modelcontextprotocol.io/",
+                    "description": "O protocolo aberto que liga agentes a ferramentas e dados.",
+                    "tags": [
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "CCM Stack",
+                    "url": "https://github.com/ciro-maciel/ccm-stack",
+                    "description": "Plugin para o agente com princípios, hooks que recusam o erro conhecido e skills para pôr no ar, medir e vender.",
+                    "tags": [
+                        "codigo-aberto",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        },
+        {
+            "id": "no-ar",
+            "title": "Pôr no ar e cobrar",
+            "description": "Site, login, e-mail e pagamento. Em ordem alfabética.",
+            "items": [
+                {
+                    "name": "Cloudflare Pages",
+                    "url": "https://pages.cloudflare.com/",
+                    "description": "Hospedagem de sites estáticos com plano grátis.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Infrastructure",
+                    "url": "https://myinfrastructure.click/",
+                    "description": "Hospedagem, login, armazenamento, pagamentos, e-mail, funções e monitores. Começa grátis, sem cartão e sem prazo, com um recurso por produto.",
+                    "tags": [
+                        "gratis",
+                        "pago",
+                        "api"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Resend",
+                    "url": "https://resend.com/",
+                    "description": "API de envio de e-mail com plano grátis.",
+                    "tags": [
+                        "gratis",
+                        "pago",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Stripe",
+                    "url": "https://stripe.com/br",
+                    "description": "Pagamentos com cartão, Pix e boleto no Brasil.",
+                    "tags": [
+                        "pago",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Vercel",
+                    "url": "https://vercel.com/",
+                    "description": "Hospedagem de aplicações web com plano grátis.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "medir",
+            "title": "Medir",
+            "description": "Quem visita, de onde veio e o que fez.",
+            "items": [
+                {
+                    "name": "Operations",
+                    "url": "https://myoperations.click/",
+                    "description": "Analytics sem banner de cookie e vídeos. Começa grátis, sem cartão e sem prazo, com um recurso por produto.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Plausible",
+                    "url": "https://plausible.io/",
+                    "description": "Analytics leve e sem cookie, pago ou auto-hospedado.",
+                    "tags": [
+                        "pago",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Umami",
+                    "url": "https://github.com/umami-software/umami",
+                    "description": "Analytics de código aberto para auto-hospedar.",
+                    "tags": [
+                        "codigo-aberto",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "clientes",
+            "title": "Conhecer os clientes",
+            "description": "Quem se cadastrou, quem usa e quem paga.",
+            "items": [
+                {
+                    "name": "Customers",
+                    "url": "https://mycustomers.click/",
+                    "description": "People: cadastros, uso e pagamentos do seu app numa lista de quem procurar hoje. Começa grátis, sem cartão e sem prazo, com um recurso por produto.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Twenty",
+                    "url": "https://github.com/twentyhq/twenty",
+                    "description": "CRM de código aberto.",
+                    "tags": [
+                        "codigo-aberto",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "divulgar",
+            "title": "Divulgar e vender",
+            "description": "Página, formulário, link curto e newsletter.",
+            "items": [
+                {
+                    "name": "Buttondown",
+                    "url": "https://buttondown.com/",
+                    "description": "Newsletter simples com plano grátis.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Dub",
+                    "url": "https://github.com/dubinc/dub",
+                    "description": "Links curtos com métricas, de código aberto.",
+                    "tags": [
+                        "codigo-aberto",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Marketing",
+                    "url": "https://mymarketing.click/",
+                    "description": "Blogs, páginas, formulários, links, newsletter, apresentações, loja e designs. Começa grátis, sem cartão e sem prazo, com um recurso por produto.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Tally",
+                    "url": "https://tally.so/",
+                    "description": "Formulários com plano grátis generoso.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "memoria",
+            "title": "Memória e ferramentas dos agentes",
+            "description": "Para o agente lembrar das decisões e ler os seus dados.",
+            "items": [
+                {
+                    "name": "Agents",
+                    "url": "https://myagents.click/",
+                    "description": "Conectores MCP, a memória Brain e o Universal MCP. Começa grátis, sem cartão e sem prazo, com um recurso por produto.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        },
+        {
+            "id": "ser-encontrado",
+            "title": "Ser encontrado",
+            "description": "Buscadores e agentes acharem o seu site.",
+            "items": [
+                {
+                    "name": "Google Search Console",
+                    "url": "https://search.google.com/search-console/about",
+                    "description": "Como o Google vê o seu site e o que ele indexou.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Sitemaps no Google",
+                    "url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview?hl=pt-br",
+                    "description": "Como montar e enviar o sitemap.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "IndexNow",
+                    "url": "https://www.indexnow.org/documentation",
+                    "description": "Avisar o Bing e outros buscadores quando uma página muda.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "llms.txt",
+                    "url": "https://llmstxt.org/",
+                    "description": "A proposta de um arquivo que explica o seu site para agentes de IA.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "regras",
+            "title": "Regras que valem para quem vende",
+            "description": "As leis e as normas que valem desde o primeiro cliente.",
+            "items": [
+                {
+                    "name": "Portal do Empreendedor",
+                    "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+                    "description": "O portal oficial do MEI.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Código de Defesa do Consumidor",
+                    "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+                    "description": "O CDC compilado no Planalto.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Decreto do comércio eletrônico",
+                    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+                    "description": "O Decreto 7.962/2013, para quem vende pela internet.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "LGPD",
+                    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+                    "description": "A Lei Geral de Proteção de Dados.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "WCAG 2.2",
+                    "url": "https://www.w3.org/TR/WCAG22/",
+                    "description": "As diretrizes de acessibilidade para conteúdo web.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "livros",
+            "title": "Livros",
+            "description": "A série O Novo Básico para quem toca o negócio.",
+            "items": [
+                {
+                    "name": "A empresa de uma pessoa (vol. 12)",
+                    "url": "https://ciromaciel.click/books/one-person-business",
+                    "description": "Como montar e operar um negócio inteiro com agentes de IA.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Do primeiro visitante ao cliente (vol. 13)",
+                    "url": "https://ciromaciel.click/books/do-primeiro-visitante-ao-cliente",
+                    "description": "A vitrine, a captação e o relacionamento do negócio, montados com agentes.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Feito para agentes (vol. 11)",
+                    "url": "https://ciromaciel.click/books/feito-para-agentes",
+                    "description": "Como fazer o agente de IA do seu cliente usar o seu produto.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        }
+    ]
+}
